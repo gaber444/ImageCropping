@@ -1,0 +1,6 @@
+build/
+.vscode
+src/pictures
+src/originaCmakeLists.txt
+src/examples.cpp
+.DS_Store
