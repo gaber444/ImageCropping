@@ -7,7 +7,7 @@ This project is a simple image cropping tool that utilizes OpenCV, a popular com
 The key features of this tool include:
 - Loading an image from your local storage.
 - Defining the cropping region using interactive sliders.
-- Saving the cropped image to your desired location.
+- Saving the cropped image to your desired location .
 
 This project serves as a practical example of using OpenCV for basic image processing tasks, and it can be a helpful tool for various applications where cropping is necessary.
 
