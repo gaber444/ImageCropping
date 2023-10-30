@@ -25,16 +25,16 @@ Before using this tool, ensure you have OpenCV installed on your system. You can
   brew install opencv
 ```
 ### Linux 
-    CMake: You can install CMake using your system's package manager. For Ubuntu/Debian:
+**CMake:** You can install CMake using your system's package manager. For Ubuntu/Debian:
 ```bash
      sudo apt-get install cmake
 ```
-OpenCV: Install OpenCV using your system's package manager. For Ubuntu/Debian:
+**OpenCV:** Install OpenCV using your system's package manager. For Ubuntu/Debian:
 ```bash
      sudo apt-get install libopencv-dev
 ```
 ## Installation
-    Clone the repository:
+**Clone the repository:**
 ```bash
     git clone https://github.com/gaber444/branjeTexta.git
     mkdir build
